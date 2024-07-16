@@ -38,7 +38,3 @@ Each class should have a constructor and a method toString() which will return a
 
 For undergrads at the level 1000 the fee for each course $850, for the level 2000 the fee per course is  $850 times 1.1, while for the level 3000 the fee per course is $850 times 1.2.  
 For grad students the fee for the course is $1050 and the fee for the project is $1250. 
-
-Below is the correct output window which shows how to write the toString() methods.
-
- 
